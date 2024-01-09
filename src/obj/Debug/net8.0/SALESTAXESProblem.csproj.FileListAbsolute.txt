@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\SALESTAXESProblem\bin\Debug\net8.0\SALESTAXESProblem.exe
+C:\Users\lenovo\source\repos\SALESTAXESProblem\bin\Debug\net8.0\SALESTAXESProblem.deps.json
+C:\Users\lenovo\source\repos\SALESTAXESProblem\bin\Debug\net8.0\SALESTAXESProblem.runtimeconfig.json
+C:\Users\lenovo\source\repos\SALESTAXESProblem\bin\Debug\net8.0\SALESTAXESProblem.dll
+C:\Users\lenovo\source\repos\SALESTAXESProblem\bin\Debug\net8.0\SALESTAXESProblem.pdb
+C:\Users\lenovo\source\repos\SALESTAXESProblem\obj\Debug\net8.0\SALESTAXESProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\SALESTAXESProblem\obj\Debug\net8.0\SALESTAXESProblem.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\SALESTAXESProblem\obj\Debug\net8.0\SALESTAXESProblem.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\SALESTAXESProblem\obj\Debug\net8.0\SALESTAXESProblem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SALESTAXESProblem\obj\Debug\net8.0\SALESTAXESProblem.dll
+C:\Users\lenovo\source\repos\SALESTAXESProblem\obj\Debug\net8.0\refint\SALESTAXESProblem.dll
+C:\Users\lenovo\source\repos\SALESTAXESProblem\obj\Debug\net8.0\SALESTAXESProblem.pdb
+C:\Users\lenovo\source\repos\SALESTAXESProblem\obj\Debug\net8.0\SALESTAXESProblem.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\SALESTAXESProblem\obj\Debug\net8.0\ref\SALESTAXESProblem.dll
+c:\Users\lenovo\source\repos\SALESTAXESProblem\obj\Debug\net8.0\SALESTAXESProblem.sourcelink.json
